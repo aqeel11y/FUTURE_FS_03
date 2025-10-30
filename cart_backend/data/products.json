@@ -1,0 +1,7 @@
+[
+  { "id": "p1", "title": "Wireless Headphones", "price": 2499, "category": "Electronics", "image": "https://picsum.photos/seed/headphones/400/300", "description": "Comfortable wireless headphones with long battery life." },
+  { "id": "p2", "title": "Sneakers", "price": 3499, "category": "Footwear", "image": "https://picsum.photos/seed/sneakers/400/300", "description": "Stylish everyday sneakers." },
+  { "id": "p3", "title": "Coffee Mug", "price": 499, "category": "Home", "image": "https://picsum.photos/seed/mug/400/300", "description": "Ceramic mug for your hot drinks." },
+  { "id": "p4", "title": "Backpack", "price": 1999, "category": "Bags", "image": "https://picsum.photos/seed/backpack/400/300", "description": "Durable backpack for travel and daily use." },
+  { "id": "p5", "title": "Smart Watch", "price": 5999, "category": "Electronics", "image": "https://picsum.photos/seed/watch/400/300", "description": "Track your fitness and notifications." }
+]
